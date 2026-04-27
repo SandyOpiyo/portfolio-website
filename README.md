@@ -33,7 +33,7 @@ The purpose of this portfolio is to present my technical skills and projects in 
 
 <section class="contact">
     <h2>📞 +254 705402825</h2>
-    <p>Email: opiyosandy@gmail.com</p>
+<p>Email: <a href="mailto:opiyosandy@gmail.com">opiyosandy@gmail.com</a></p>    
 </section>
 
 <footer>
