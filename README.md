@@ -1,182 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Sandy Opiyo | AI Portfolio</title>
+# 🌐 AI Portfolio Website
 
-<style>
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
+## 📌 Overview
+This is my personal AI portfolio website showcasing my projects, skills, and experience as a Junior AI Specialist and Data Analyst. The portfolio highlights practical projects in machine learning, data analysis, and artificial intelligence.
 
-    body {
-        background: #0f172a;
-        color: #e2e8f0;
-    }
+## 🎯 Purpose
+The purpose of this portfolio is to present my technical skills and projects in a clean, modern, and professional way to potential employers and collaborators.
 
-    .container {
-        max-width: 1100px;
-        margin: auto;
-        padding: 20px;
-    }
+## 🚀 Features
+- Responsive and modern design
+- Project showcase section
+- Skills section
+- Contact information
+- Interactive UI with hover effects
 
-    header {
-        text-align: center;
-        margin-bottom: 40px;
-    }
+## 🧠 Projects Included
+- **Customer Purchase Prediction**  
+  Machine learning model that predicts customer buying behavior.
 
-    header h1 {
-        font-size: 2.5rem;
-        color: #38bdf8;
-    }
+- **Sales Data Analysis**  
+  Data analysis project identifying trends and top-performing products.
 
-    header p {
-        color: #94a3b8;
-        margin-top: 10px;
-    }
+- **AI Chatbot**  
+  Simple rule-based chatbot simulating human interaction.
 
-    .btn {
-        display: inline-block;
-        margin-top: 15px;
-        padding: 10px 20px;
-        background: #38bdf8;
-        color: #0f172a;
-        text-decoration: none;
-        border-radius: 6px;
-        font-weight: bold;
-        transition: 0.3s;
-    }
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
 
-    .btn:hover {
-        background: #0ea5e9;
-    }
-
-    h2 {
-        margin-bottom: 15px;
-        color: #38bdf8;
-    }
-
-    /* PROJECT GRID */
-    .projects {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-        gap: 25px;
-        margin-bottom: 40px;
-    }
-
-    /* CARD */
-    .card {
-        background: #1e293b;
-        padding: 20px;
-        border-radius: 12px;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0px 10px 20px rgba(0,0,0,0.4);
-    }
-
-    .card h3 {
-        margin-bottom: 10px;
-        color: #f1f5f9;
-    }
-
-    .card p {
-        color: #94a3b8;
-        font-size: 14px;
-        margin-bottom: 10px;
-    }
-
-    .card a {
-        color: #38bdf8;
-        text-decoration: none;
-        font-weight: bold;
-    }
-
-    .card a:hover {
-        text-decoration: underline;
-    }
-
-    /* SKILLS */
-    .skills {
-        margin-bottom: 40px;
-    }
-
-    .skills span {
-        display: inline-block;
-        background: #1e293b;
-        padding: 8px 15px;
-        border-radius: 20px;
-        margin: 5px;
-        font-size: 14px;
-    }
-
-    /* CONTACT */
-    .contact {
-        text-align: center;
-        margin-top: 30px;
-    }
-
-    footer {
-        text-align: center;
-        margin-top: 30px;
-        font-size: 14px;
-        color: #64748b;
-    }
-</style>
-</head>
-
-<body>
-
-<div class="container">
-
-<header>
-    <h1>Sandy Opiyo</h1>
-    <p>Junior AI Specialist | Data Analyst | Python Enthusiast</p>
-    <a href="#" class="btn">Download CV</a>
-</header>
-
-<section>
-    <h2>🚀 Projects</h2>
-
-    <div class="projects">
-
-        <div class="card">
-            <h3>Customer Purchase Prediction</h3>
-            <p>Machine learning model predicting customer buying behavior using logistic regression.</p>
-            <a href="https://github.com/Sandy Opiyo/customer-purchase-prediction">View Project →</a>
-        </div>
-
-        <div class="card">
-            <h3>Sales Data Analysis</h3>
-            <p>Analyzed sales trends and identified top-performing products using Python.</p>
-            <a href="https://github.com/SandyOpiyo/sales-data-analysis">View Project →</a>
-        </div>
-
-        <div class="card">
-            <h3>AI Chatbot</h3>
-            <p>Simple rule-based chatbot simulating human interaction using Python.</p>
-            <a href="https://github.com/Sandy Opiyo/ai-chatbot">View Project →</a>
-        </div>
-
-    </div>
-</section>
-
-<section class="skills">
-    <h2>⚙️ Skills</h2>
-    <span>Python</span>
-    <span>Machine Learning</span>
-    <span>Data Analysis</span>
-    <span>SQL</span>
-    <span>Pandas</span>
-    <span>Scikit-learn</span>
-</section>
+## 📂 Project Structure
+<!DOCTYPE html> 
 
 <section class="contact">
     <h2>📞 +254 705402825</h2>
@@ -187,8 +40,6 @@
     <p>© 2026 Sandy Opiyo | AI Portfolio</p>
 </footer>
 
-</div>    
-</body>
 </html>
 
         
