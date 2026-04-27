@@ -33,12 +33,10 @@ portfolio-website
         <a href="https://github.com/SandyOpiyo/customer-purchase-prediction">
         Customer Purchase Prediction
         </a>
-        
-       <a href="https://github.com/Sandy Opiyo/customer-sales-data-analysis">
+         <a href="https://github.com/Sandy Opiyo/customer-sales-data-analysis">
         Sales Data Analysis 
         </a> 
-        
-        <a href="https://github.com/Sandy Opiyo/starter-ai-chatbot">
+         <a href="https://github.com/Sandy Opiyo/starter-ai-chatbot">
         Starter AI Chatbot
         </a>
         
