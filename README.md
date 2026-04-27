@@ -39,8 +39,7 @@ portfolio-website
          <a href="https://github.com/Sandy Opiyo/starter-ai-chatbot">
         Starter AI Chatbot
         </a>
-        
-    </p>
+         </p>
 </div>
 
 <div class="card">
